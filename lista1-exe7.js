@@ -17,7 +17,7 @@ do{
     numero = Number(prompt(`Digite outro número, digite um número negativo para encerrar`))
 
 }
-while (numero >= 0)
+while (numero >= 0)//
 
 }
 // calcular e mostrar a média
