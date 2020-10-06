@@ -40,7 +40,7 @@ function chefe(){
             let menorPontuacao = mat[0][j]
             let modelomenor = vet[0].modelo
             for(let i=0;i<4;i++){//para cada carro
-                if(mat[i][j] < menorPontuacao){
+                if(mat[i][j] < maisPontos){
                     menorPontuacao = mat[i][j]
                     modelomenor = vet[i].modelo
                 }
